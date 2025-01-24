@@ -10,7 +10,7 @@ This repository contains the infrastructure code described in this [article](htt
 1. Install the cdktkf cli `npm i -g cdktf-cli@latest`
 2. Clone this Repo `git clone https://github.com/abdelino17/aws-cdktf-samples-fargate`
 3. Navigate to the new folder `cd aws-cdktf-samples-fargate`
-4. Update the
+4. Set the `AWS_PROFILE` environment variable
 5. Create the virtualenv with [pipenv](https://pipenv.pypa.io/en/latest/) and install the required packages `PIPENV_VENV_IN_PROJECT=1 pipenv install`
 6. Generate the terraform state of your project with the command `cdktf synth`
 7. Deploy your stack `cdktf deploy`
