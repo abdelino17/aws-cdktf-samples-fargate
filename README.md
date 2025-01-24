@@ -3,7 +3,7 @@
 ![cdktf](https://img.shields.io/badge/cdktf-0.20.8-informational)
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdelFare?logoColor=lime&style=social)
 
-This repository contains a basic code to deploy a java api on AWS ECS Fargate using [Cloud Development Kit and Terraform](https://www.terraform.io/cdktf).
+This repository contains the infrastructure code described in this [article](https://blog.abdelfare.me/post/deploy-springboot-on-aws-ecs-using-cdktf).
 
 ## Usage
 
